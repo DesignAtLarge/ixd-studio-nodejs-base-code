@@ -8,4 +8,4 @@ $ npm install
 
 # Documentation
 
-[https://liby991.gitbook.io/keeling-js](Keeling-Js Documentation)
+[Keeling Js Documentation](https://liby991.gitbooks.io/keeling-js/)
